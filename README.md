@@ -38,12 +38,6 @@ I love solving problems, creating interactive experiences, and continuously grow
 
 ---
 
-## 📊 GitHub Stats
-![Torutilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=torutilla&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torutilla&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - ✉️ Email: christiantorres0418@gmail.com  
 - 🌐 GitHub: [torutilla](https://github.com/torutilla)  
