@@ -1,7 +1,5 @@
 # 🎮 Greetings, Explorer! I'm Christian John Torres
 
----
-
 ## 🌱 About Me
 - 📍 Based in Tagaytay City, Cavite  
 - 💻 Focused on **mobile app, web, game, and system applications development**  
