@@ -2,7 +2,6 @@
 
 🚀 Passionate about technology with a foundation in **software development**,  
 skilled in building **mobile apps, games, and system applications**.  
-I love solving problems, creating interactive experiences, and continuously growing as a developer.  
 
 ---
 
