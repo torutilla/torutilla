@@ -8,7 +8,7 @@ I love solving problems, creating interactive experiences, and continuously grow
 
 ## 🌱 About Me
 - 📍 Based in Tagaytay City, Cavite  
-- 💻 Focused on **mobile app development, game design, and system applications**  
+- 💻 Focused on **mobile app, web, game, and system applications development**  
 
 ---
 
