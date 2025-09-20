@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Christian John Torres  
+🎮 Greetings, Explorer! I'm Christian John Torres
 
 🚀 Passionate about technology with a foundation in **software development**,  
 skilled in building **mobile apps, games, and system applications**.  
